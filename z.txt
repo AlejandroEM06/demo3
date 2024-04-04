@@ -1,3 +1,7 @@
 "Hola mundo" 
 hola hice un ambio en git commit
+<<<<<<< HEAD
 cambio efectuado en la pc
+=======
+cambio agregado  en github
+>>>>>>> fd81d4c6d74dca8f020bfee391246cec2f522bde
